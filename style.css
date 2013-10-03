@@ -6,6 +6,7 @@ header {background: black;
 
 header h1 {color: white;
           margin: 0px 0px 0px 30px;
+          font-size: 300%;
 
 }
 
@@ -24,5 +25,8 @@ a {text-decoration: none;
 
 
 a:hover {color: black;
+}
+
+article {margin: 0px 30px 0px 30px;
 
 }
